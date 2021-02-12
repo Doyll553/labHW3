@@ -1,0 +1,22 @@
+/*Define your font styles here*/
+
+	
+
+/*Style your page here*/
+body{
+	background-color: green;
+}
+h1{
+	font-family: 'Hanalei', cursive;
+	color: blue;
+	font-size: 170px;
+}
+h2 {
+	font-family: 'Noto Sans KR', sans-serif;
+	color: pink;
+	font-size: 70px;
+}
+ul{
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 50px
+}
